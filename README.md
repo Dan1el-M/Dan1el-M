@@ -84,53 +84,15 @@ Spanish: Native · English: B2
 
 ### Certifications
 
-Certification
-
-Issuer
-
-Year
-
-CyberOps Associate
-
-Cisco Networking Academy
-
-2023
-
-CCNAv7: Introduction to Networks
-
-Cisco Networking Academy
-
-2024
-
-CCNAv7: Switching, Routing, and Wireless Essentials
-
-Cisco Networking Academy
-
-2022
-
-Cybersecurity Essentials
-
-Cisco Networking Academy
-
-2021
-
-Introduction to Cybersecurity
-
-Cisco Networking Academy
-
-2021
-
-NDG Linux Unhatched
-
-Cisco Networking Academy
-
-2021
-
-IT Essentials: PC Hardware and Software
-
-Cisco Networking Academy
-
-2024
+| Certification | Issuer | Year |
+|---|---|---:|
+| [CyberOps Associate](certificates/CyberOps_Associate.pdf) | Cisco Networking Academy | 2023 |
+| [CCNAv7: Introduction to Networks](certificates/CCNAv7_Introduction_to_Networks.pdf) | Cisco Networking Academy | 2024 |
+| [CCNAv7: Switching, Routing, and Wireless Essentials](certificates/CCNAv7_Switching_Routing_Wireless_Essentials.pdf) | Cisco Networking Academy | 2022 |
+| [Cybersecurity Essentials](certificates/Cybersecurity_Essentials.pdf) | Cisco Networking Academy | 2021 |
+| [Introduction to Cybersecurity](certificates/Introduction_to_Cybersecurity.pdf) | Cisco Networking Academy | 2021 |
+| [NDG Linux Unhatched](certificates/NDG_Linux_Unhatched.pdf) | Cisco Networking Academy | 2021 |
+| [IT Essentials: PC Hardware and Software](certificates/IT_Essentials_PC_Hardware_and_Software.pdf) | Cisco Networking Academy | 2024 |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D11,50:1a1a2e,100:6C63FF&height=100&section=footer" width="100%"/>
