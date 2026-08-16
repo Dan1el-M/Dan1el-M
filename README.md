@@ -86,14 +86,14 @@ Spanish: Native · English: B2
 
 | Certification | Issuer | Year |
 |---|---|---:|
-| [CyberOps Associate](certificates/CyberOps_Associate.pdf) | Cisco Networking Academy | 2023 |
-| [CCNAv7: Introduction to Networks](certificates/CCNAv7_Introduction_to_Networks.pdf) | Cisco Networking Academy | 2024 |
-| [CCNAv7: Switching, Routing, and Wireless Essentials](certificates/CCNAv7_Switching_Routing_Wireless_Essentials.pdf) | Cisco Networking Academy | 2022 |
-| [Cybersecurity Essentials](certificates/Cybersecurity_Essentials.pdf) | Cisco Networking Academy | 2021 |
-| [Introduction to Cybersecurity](certificates/Introduction_to_Cybersecurity.pdf) | Cisco Networking Academy | 2021 |
-| [NDG Linux Unhatched](certificates/NDG_Linux_Unhatched.pdf) | Cisco Networking Academy | 2021 |
-| [IT Essentials: PC Hardware and Software](certificates/IT_Essentials_PC_Hardware_and_Software.pdf) | Cisco Networking Academy | 2024 |
-
+| [CyberOps Associate](certificates/CyberOps_Associate_certificate_jdmorera6-gmail-com_e54e7fd3-d8ee-4d1f-b3ee-222f45d71032.pdf) | Cisco Networking Academy | 2023 |
+| [CCNAv7: Introduction to Networks](certificates/CCNA-_Introduction_to_Networks_certificate_jdmorera6-gmail-com_9f706434-ada5-44bc-8354-838dbe12f136.pdf) | Cisco Networking Academy | 2024 |
+| [CCNAv7: Switching, Routing, and Wireless Essentials](certificates/CCNA-_Switching-_Routing-_and_Wireless_Essentials_certificate_jdmorera6-gmail-com_2ed508c1-4ecc-41fe-a1ab-4802c17379f4.pdf) | Cisco Networking Academy | 2022 |
+| [Cybersecurity Essentials](certificates/Cybersecurity_Essentials_certificate_jdmorera6-gmail-com_4f317271-1af7-47ae-94b9-2c8090270757.pdf) | Cisco Networking Academy | 2021 |
+| [Introduction to Cybersecurity](certificates/Introduction_to_Cybersecurity_certificate_jdmorera6-gmail-com_d7a339ad-6dd1-4667-b53d-0cdccd997210.pdf) | Cisco Networking Academy | 2021 |
+| [NDG Linux Unhatched](certificates/Partner-_NDG_Linux_Unhatched_certificate_jdmorera6-gmail-com_f8c33237-78cb-47c1-b16c-4dd92aac2270.pdf) | Cisco Networking Academy | 2021 |
+| [IT Essentials: PC Hardware and Software](certificates/IT_Essentials_certificate_jdmorera6-gmail-com_a651239e-22fa-43f2-a3a7-64dcb0b71074.pdf) | Cisco Networking Academy | 2024 |
+| [Programming Essentials in Python](certificates/Partner-_PCAP_-_Programming_Essentials_in_Python_certificate_jdmorera6-gmail-com_7c9c0d72-107a-4b61-9154-1b064888b5e1.pdf) | Cisco Networking Academy / PCAP | — |
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D11,50:1a1a2e,100:6C63FF&height=100&section=footer" width="100%"/>
 </p>
