@@ -20,7 +20,7 @@
   </a>
 </p>
 
-About
+### About
 
 Computer Engineering student at Tecnológico de Costa Rica (2024–2028), based in Cartago, Costa Rica.
 
@@ -28,7 +28,7 @@ Interested in software engineering, backend development, cybersecurity, artifici
 
 Spanish: Native · English: B2
 
-Languages & Tools
+### Languages & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -72,17 +72,17 @@ Languages & Tools
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
 
-What I focus on
+### What I focus on
 
-Software Engineering & Backend — Application development, APIs, backend services, databases, software architecture, testing, and maintainable software.
+> **Software Engineering & Backend**  — Application development, APIs, backend services, databases, software architecture, testing, and maintainable software.
 
-Cybersecurity & Networking — TCP/IP, OSI, subnetting, routing, switching, Linux, Wireshark, vulnerability analysis, pentesting fundamentals, and Cisco networking.
+> **Cybersecurity & Networking**  — TCP/IP, OSI, subnetting, routing, switching, Linux, Wireshark, vulnerability analysis, pentesting fundamentals, and Cisco networking.
 
-Artificial Intelligence & Data — Artificial intelligence, machine learning, data science, and data-driven software solutions.
+> **Artificial Intelligence & Data**  — Artificial intelligence, machine learning, data science, and data-driven software solutions.
 
-Software Quality — QA, unit and integration testing, clean code, SOLID principles, and software assurance.
+> **Software Quality**  — QA, unit and integration testing, clean code, SOLID principles, and software assurance.
 
-Certifications
+### Certifications
 
 Certification
 
